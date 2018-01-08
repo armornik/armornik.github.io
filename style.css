@@ -792,7 +792,7 @@ form
 .hot_deals{
 	margin-top: 120px;
     height: 800px;
-    background-image: url(img/slider.jpg);
+    background-image: url(Img/slider.jpg);
 }
 
 .hot_deals .text h3{
@@ -818,7 +818,7 @@ form
 	float: left;
 	width: 570px;
     height: 570px;
-	background-image: url(img/product-1-lg.jpg);
+	background-image: url(Img/product-1-lg.jpg);
 	display: inline-block;
 }
 
@@ -851,7 +851,7 @@ form
 
 .mobile_app{
 	height: 516px;
-	background-image: url(img/back-img.jpg);
+	background-image: url(Img/back-img.jpg);
 	margin-top: 120px;
 }
 
@@ -1001,7 +1001,7 @@ form
 }
 
 [type=submit] {
-    background: url(img/post.png) no-repeat;
+    background: url(Img/post.png) no-repeat;
     background-position: 1px;
     background-size: 35px 35px;
     background-color: white;
